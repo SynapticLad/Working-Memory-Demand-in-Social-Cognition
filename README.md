@@ -41,7 +41,7 @@ A broad overview: Objectives of HCP
 
 ### We employed two approaches for identifying brain regions:
 
-1. Looking for common brain regions involved in both working memory and social cognition through t-tests. (Key Contributor: Sachin Patalasingh)
+1. Looking for common brain regions involved in both working memory and social cognition through t-tests. (Key Contributor: [Sachin Patalasingh](https://github.com/SynapticLad))
 2. Correlation between time-series matrices of social cognition tasks and working memory tasks.
 
 ### Results:
